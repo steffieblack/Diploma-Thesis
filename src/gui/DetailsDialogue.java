@@ -17,7 +17,7 @@ public class DetailsDialogue extends javax.swing.JDialog {
      * Creates new form DetailsDialogue
      */
     
-    
+     
     public DetailsDialogue(java.awt.Frame parent, boolean modal) 
     {
         super(parent, modal);

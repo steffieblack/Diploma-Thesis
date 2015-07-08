@@ -21,7 +21,7 @@ public class DatabaseConnectionDialogue extends javax.swing.JDialog {
         this.setResizable(false);
         setLocationRelativeTo(parent);
     }
-
+ 
     /**
      * This method is called from within the constructor to initialize the form.
      * WARNING: Do NOT modify this code. The content of this method is always
